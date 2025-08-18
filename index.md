@@ -12,15 +12,11 @@ Rising senior majoring Data Analytics at Baruch College in New York, passionate 
 - 🔭 Exploring projects in **Data Analytics | Web Development**  
 - ⚡ Fun fact: I am recently interested in learning crochet.  
 
----
-
 ## 🛠️ Tech Stack  
 - **Languages:** Python, C++, SQL
 - **Databases:** MySQL
 - **Frameworks/Libraries:** Pandas, NumPy
 - **Tools:** Git, Excel VBA  
-
----
 
 ## 🤝 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jiayuouyang04/)  
