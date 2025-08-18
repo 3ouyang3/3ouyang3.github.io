@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Home
+title: Your Site Title
+permalink: /
 ---
-
 # Hi there, I'm Jiayu Ouyang
 
 Rising senior majoring Data Analytics at Baruch College in New York, passionate about database management, web marketing, and building tools that make complex information simple.
