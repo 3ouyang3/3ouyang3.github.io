@@ -2,22 +2,24 @@ layout: default
 title: Jiayu's homepage
 permalink: /
 # Hi there, I'm Jiayu Ouyang
+<p align="center">
+  <img src="IMG_0910.jpg" 
+       alt="Steven's Professional Photo" 
+       style="border-radius: 50%; width: 200px; height: auto; aspect-ratio: 1/1; object-fit: cover;" />
+</p>
 
-Rising senior majoring Data Analytics at Baruch College in New York, passionate about database management, web marketing, and building tools that make complex information simple.
+## About Me
+- I'm a Senior student at CUNY Baruch College majoring in Data Analytics
+- Currently working as a database administration intern at the MTA  
+- passionate about database development in Microsoft Access for business operation
+- I enjoy photography, and I am also recently obsessed with watching Youtube learning about crochet.  
 
-## About Me  
-- 🎓 I'm a Senior student at CUNY Baruch 
-- 💼 Currently working as a database administor intern at the MTA  
-- 🌱 Learning more about **Microsoft Access**  
-- 🔭 Exploring projects in **Data Analytics | Web Development**  
-- ⚡ Fun fact: I am recently interested in learning crochet.  
-
-## 🛠️ Tech Stack  
+## Technical Skills
 - **Languages:** Python, C++, SQL
 - **Databases:** MySQL
 - **Frameworks/Libraries:** Pandas, NumPy
 - **Tools:** Git, Excel VBA  
 
-## 🤝 Connect With Me  
+## Feel free to connect with me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jiayuouyang04/)  
 - 📧 Email: [jiayuoy@gmail.com]  
