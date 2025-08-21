@@ -21,8 +21,9 @@ permalink: /
 - **Tools:** Git, Excel VBA  
 
 ## Resume
-- [Check out my Resume](Jiayu Ouyang Resume.pdf)
+- [Check out my Resume](Jiayu_Ouyang_Resume.pdf)
 
 ## Feel free to connect with me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jiayuouyang04/)  
-- 📧 Email: [jiayuoy@gmail.com]  
+- [LinkedIn](https://www.linkedin.com/in/jiayuouyang04/)  
+- Email: [jiayuoy@gmail.com]
+- Github: [https://github.com/3ouyang3]
