@@ -1,6 +1,3 @@
-layout: default
-title: Jiayu's homepage
-permalink: /
 # Hi there, I'm Jiayu Ouyang
 <p align="center">
   <img src="IMG_0910.jpg" 
